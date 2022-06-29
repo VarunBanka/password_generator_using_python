@@ -1,2 +1,8 @@
-# password_generator_using_python
-here's a password generator made using python, for more info, take a look at readme.me file
+<h1>Password generator using python</h1>
+<h2> </h2>
+<h2>Requirments: </h2>
+<h4> A) python 3 or above </h4>
+<h4>B) Tkinter,
+ paperclip & 
+random</h4>
+
