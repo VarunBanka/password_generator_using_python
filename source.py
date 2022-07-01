@@ -15,6 +15,7 @@ root = Tk()
 root.geometry("400x400")    # x is small case here
 
 # declaring a variable of string type and this variable will be
+# made by dev Varun
 # used to store the password generated
 passstr = StringVar()
 
@@ -64,7 +65,6 @@ Label(root, text="Enter password length").pack(pady=3)
 # Creating a entry widget to take password length entered by the
 # user
 Entry(root, textvariable=passlen).pack(pady=3)
-
 # button to call the generate function
 Button(root, text="Generate Password", command=generate).pack(pady=7)
 
